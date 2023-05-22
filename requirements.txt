@@ -8,3 +8,7 @@ requests
 tgcrypto
 youtube-dl
 olefile
+ffmpeg-python
+ffmpeg
+pyrogram==1.0.7
+sqlalchemy=-1.3.23
